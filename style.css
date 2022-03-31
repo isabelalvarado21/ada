@@ -1,0 +1,36 @@
+#contenedor {
+  margin: 200px auto;
+  width: 450px;
+  border-radius: 40px;
+  box-shadow: 0 7px 20px rgba(0, 0, 0, 0.7);
+  text-align: center;
+  justify-content: center;
+}
+
+#musica {
+  float: left;
+  width: 150px;
+}
+#musica2 {
+  float: left;
+  width: 150px;
+}
+#link {
+  float: left;
+  width: 150px;
+}
+
+#fotito {
+  border-radius: 5% 5% 0% 0%;
+}
+
+button {
+  background-color: aqua;
+  font-weight: bold;
+}
+
+.botones {
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 10px 10px;
+}
